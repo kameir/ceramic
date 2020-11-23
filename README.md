@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Chat%20on-Discord-orange.svg?style=flat)](https://discord.gg/6VRZpGP)
 [![Twitter](https://img.shields.io/twitter/follow/ceramicnetwork?label=Follow&style=social)](https://twitter.com/ceramicnetwork) 
 
-[**Ceramic**](http://ceramic.network) is a global, general purpose, document-based data storage network for securely publishing, linking, and querying verifiable information on the public internet.
+[**Ceramic**](http://ceramic.network) is a global, general purpose, document-based (?) data storage network (?) for securely publishing, linking, and querying verifiable information on the public internet. -- Does Ceramic actually STORE data, or is it just distributing data fragments to (decentralized) data storage systems?
 
 
 ### Build with Ceramic
