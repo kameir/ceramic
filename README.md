@@ -50,7 +50,7 @@ Smart documents are the most powerful way to manage information on the open web.
 - Documents are identified by a `DocID`, which never changes. DocIDs are deterministically generated from the hash of the genesis record.
 - Record content can be backed up to any type of data warehouse, such as decentralized storage (i.e. Filecoin) or cloud databases (i.e. SQL server).
 
-**Programmable smart logic**
+**Programmable smart (?) logic**
 - Define custom rules for state transitions to enforce who, how, and when your document is updated without centralized servers. Rules can react to direct events such as a signature from the owner, or indirect events such as an update in another document.
 - Hooks can invoke external code or business logic
 
@@ -70,7 +70,7 @@ Smart documents are the most powerful way to manage information on the open web.
 
 ## Store your most critical data natively on the internet.
 
-**Decentralized identity network:** Ceramic can be used as a flexible, cross-platform decentralized identity graph complete with DIDs, identity metadata such as profiles, linked crypto and social accounts, following lists, user data indexes, and much more.
+**Decentralized identifier network:** Ceramic can be used as a flexible, cross-platform decentralized identification graph complete with DIDs, identity metadata such as profiles, linked crypto and social accounts, following lists, user data indexes, and much more.
 
 **Data storage backend:** Improve information security, ship faster, and eliminate the need to configure and run database servers for storing user and application data. Ceramic documents offer capabilities similar to your favorite NoSQL document store.
 
@@ -80,7 +80,7 @@ Smart documents are the most powerful way to manage information on the open web.
 
 
 ## Collaborate on a global scale.
-Ceramic’s verifiable dataweb brings discoverability, integrity, and composability to the world’s information. Openly join the network to publish information and access a vast amount of data resources to use when building your product.
+Ceramic’s verifiable (?) dataweb brings discoverability, integrity, and composability to the world’s information. Openly join the network to publish information and access a vast amount of data resources to use when building your product.
 
 - **Global discoverability:** Discover and access a world of information resources on one global network.
 - **Single source of truth:** Every document has a verifiable and publicly auditable state.
