@@ -16,7 +16,7 @@ Clay devnet is now live for experimentation. Fire livenet will launch late 2020.
 
 - **Infrastructure:** Clayground (*coming soon*) allows you to easily spin-up the entire suite of Ceramic infrastructure for development and testing purposes.
 
-- **Tools:** [Ceramic Studio](https://github.com/ceramicstudio) is a collection of community-built projects that simplify Ceramic development and use, such as decentralized identity (DID) providers for wallets ([IdentityWallet](https://github.com/3box/identity-wallet-js)), in-browser user authentication systems ([3ID Connect](https://github.com/3box/3id-connect)), identity management libraries ([IDX](https://github.com/ceramicstudio/js-idx)), identity management GUIs (*coming soon*), and more.
+- **Tools:** [Ceramic Studio](https://github.com/ceramicstudio) is a collection of community-built projects that simplify Ceramic development and use, such as decentralized identitication (DID) providers for wallets ([IdentityWallet](https://github.com/3box/identity-wallet-js)), in-browser user authentication systems ([3ID Connect](https://github.com/3box/3id-connect)), identifier management libraries ([IDX](https://github.com/ceramicstudio/js-idx)), identidier management GUIs (*coming soon*), and more.
 
 - **Docs:** For a deep dive on the internals of the Ceramic Protocol, read the [Technical Specification](SPECIFICATION.md).
 
@@ -31,7 +31,7 @@ Clay devnet is now live for experimentation. Fire livenet will launch late 2020.
 
 ## Moving the world's data beyond the cloud. 
 
-The internet wasn’t built with a native data layer. HTTP database servers have centralized information and power amongst a few Big Tech institutions and resulted in a web of silos rather than a web of data. From decentralized identity to censorship-resistant social media and cross-platform collaboration, many new use cases require a solution for managing dynamic data on the open internet, beyond the control of any single DB server. By combining DIDs, IPFS, blockchains, and p2p networking, Ceramic provides a secure, collaborative, global network for managing user and app data beyond the cloud.
+The internet wasn’t built with a native data ____ (?) layer. HTTP database servers have centralized information and power amongst a limited number of for profit companies and resulted in a web of silos ____ rather than a web of data. From decentralized identity to censorship-resistant social media and cross-platform collaboration, many new use cases require a solution for managing dynamic data on the open internet, beyond the control of any single DB server. By combining DIDs, IPFS, blockchains, and p2p networking, Ceramic provides a secure, collaborative, global network for managing user and app data beyond the cloud.
 
 > Learn more by reading the full [Ceramic Introduction](https://github.com/ceramicnetwork/ceramic/blob/master/OVERVIEW.md).
 
